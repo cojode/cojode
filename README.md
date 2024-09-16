@@ -13,6 +13,9 @@
       <td><a href="https://gitlab.uzniki.online/root/metagrinder/"><b>Metagrinder</b></a></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/cojode/cian_hunt">Cian hunt</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/dgt4l/PictureProcessing"><b>PictureProcessing</b></a></td>
     </tr>
   </tbody>
