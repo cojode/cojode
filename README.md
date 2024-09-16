@@ -19,6 +19,9 @@
       <td><a href="https://github.com/cojode/abosyn">Abosyn</td>
     </tr>
   </tbody>
+</table>
+
+<table>
   <thead align="center">
     <tr border: none;>
       <td><b>🌙C/C++ Projects</b></td>
