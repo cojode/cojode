@@ -35,6 +35,17 @@
     </tr>
 </table>
 
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>💣 Scripts</b></td>
+    </tr>
+  </thead>
+    <tr>
+     <td><a href="https://github.com/cojode/bash_postgres_client"><b>Bash Postgres client</b></a></td>
+    </tr>
+</table>
+
 
 <b>Languages and Tools:</b>
 
