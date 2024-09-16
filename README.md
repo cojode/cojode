@@ -5,7 +5,7 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>📘 Projects</b></td>
+      <td><b>🐍Python Projects</b></td>
     </tr>
   </thead>
   <tbody>
@@ -18,10 +18,18 @@
     <tr>
       <td><a href="https://github.com/cojode/abosyn">Abosyn</td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/dgt4l/PictureProcessing"><b>PictureProcessing</b></a></td>
-    </tr>
   </tbody>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🌙C/C++ Projects</b></td>
+    </tr>
+  </thead>
+    <tr>
+     <td><a href="https://github.com/dgt4l/PictureProcessing"><b>PictureProcessing</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/cojode/zmq_playground">ZMQ playgorund</td>
+    </tr>
 </table>
 
 
