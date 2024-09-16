@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-My name is Ilya, and i write on my hosted gitlab with my team:
-
-
-
 <b>Projects:</b>
 
 <table>
