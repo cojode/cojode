@@ -2,7 +2,7 @@
 
 My name is Ilya, and i write on my hosted gitlab with my team:
 
-<a href="https://gitlab.uzniki.online/root">(https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+
 
 <b>Projects:</b>
 
