@@ -28,7 +28,7 @@
     </tr>
   </thead>
     <tr>
-     <td><a href="https://github.com/dgt4l/PictureProcessing"><b>PictureProcessing</b></a></td>
+     <td><a href="https://github.com/dgt4l/PictureProcessing">PictureProcessing</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/cojode/zmq_playground">ZMQ playgorund</td>
