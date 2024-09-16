@@ -16,6 +16,9 @@
       <td><a href="https://github.com/cojode/cian_hunt">Cian hunt</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/cojode/abosyn">Abosyn</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/dgt4l/PictureProcessing"><b>PictureProcessing</b></a></td>
     </tr>
   </tbody>
