@@ -14,7 +14,7 @@
     <tr>
       <td><a href="https://gitlab.com/dgt4l/metagrinder/"><b>Metagrinder</b></a></td>
       <td>Python · Async Backend</td>
-      <td>Microservice architectured utility for metadata leakage prevention</td>
+      <td>Backend service with microservice architecture for metadata leakage prevention</td>
     </tr>
     <tr>
       <td><a href="https://github.com/DarkLordRowan/shanks-university/tree/main/consumer"><b>Shanks University Consumer</b></a></td>
