@@ -4,46 +4,64 @@
 
 <table>
   <thead align="center">
-    <tr border: none;>
-      <td><b>🐍Python Projects</b></td>
+    <tr>
+      <td><b>Project</b></td>
+      <td><b>Type</b></td>
+      <td><b>Description</b></td>
     </tr>
   </thead>
-  <tbody>
+  <tbody
     <tr>
       <td><a href="https://gitlab.com/dgt4l/metagrinder/"><b>Metagrinder</b></a></td>
+      <td>Python · Async Backend</td>
+      <td>Microservice architectured utility for metadata leakage prevention</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/cojode/cian_hunt">Cian hunt</td>
+      <td><a href="https://github.com/DarkLordRowan/shanks-university/tree/main/consumer"><b>Shanks University Consumer</b></a></td>
+      <td>Python · Async Backend</td>
+      <td>CLI pybind utility for running experiments on a time series convergence methods with rich customizations</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/cojode/abosyn">Abosyn</td>
+      <td><a href="https://github.com/cojode/crm-fastapi-light"><b>FastAPI CRM</b></a></td>
+      <td>Test Task · REST API</td>
+      <td>Standard CRM backend built in limited time with FastAPI, PostgreSQL, and OpenAPI</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/cojode/nir_myrmiaka"><b>Nir Myrmiaka</b></a></td>
+      <td>Python · Backend Application</td>
+      <td>Backend service for mobile application for managing students assignments</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/cojode/telephone-fastapi-redis"><b>FastAPI + Redis Telephone</b></a></td>
+      <td>Test Task · Backend Service</td>
+      <td>Backend service demonstrating Redis integration and clean API design</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/cojode/fastapi_org"><b>FastAPI Organizations</b></a></td>
+      <td>Test Task · REST API</td>
+      <td>REST API with clear domain modeling and layered structure</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/cojode/dogs-django"><b>Django CRUD</b></a></td>
+      <td>Test Task · Django</td>
+      <td>Classic CRUD backend demonstrating Django ORM and views</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/cojode/zmq_playground"><b>ZMQ Playground</b></a></td>
+      <td>C · Messaging</td>
+      <td>ZeroMQ messaging patterns and IPC experiments in C</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dgt4l/PictureProcessing"><b>PictureProcessing</b></a></td>
+      <td>C / C++</td>
+      <td>Image processing distributed service with custom signals support</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/cojode/bash_postgres_client"><b>Bash Postgres Client</b></a></td>
+      <td>Tooling · Script</td>
+      <td>Shell-based PostgreSQL interaction and automation</td>
     </tr>
   </tbody>
-</table>
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🌙C/C++ Projects</b></td>
-    </tr>
-  </thead>
-    <tr>
-     <td><a href="https://github.com/dgt4l/PictureProcessing">PictureProcessing</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/cojode/zmq_playground">ZMQ playgorund</td>
-    </tr>
-</table>
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>💣 Scripts</b></td>
-    </tr>
-  </thead>
-    <tr>
-     <td><a href="https://github.com/cojode/bash_postgres_client"><b>Bash Postgres client</b></a></td>
-    </tr>
 </table>
 
 
