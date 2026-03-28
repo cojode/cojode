@@ -17,7 +17,7 @@
       <td>Backend service with microservice architecture for metadata leakage prevention</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/DarkLordRowan/shanks-university/tree/main/consumer"><b>Shanks University Consumer</b></a></td>
+      <td><a href="https://github.com/DarkLordRowan/shanks-university/tree/main"><b>Shanks University Consumer</b></a></td>
       <td>Python · Async Backend</td>
       <td>CLI pybind utility for running experiments on a time series convergence methods with rich customizations</td>
     </tr>
